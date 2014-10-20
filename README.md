@@ -1,10 +1,10 @@
 jour72315
 =========
 
-CUNY Graduate School of Journalism » Interactive curriculum » Advanced WordPress Customization
-
 ![http://maliksingleton.com/wp-content/uploads/2014/10/inkspill.jpg](http://maliksingleton.com/wp-content/uploads/2014/10/inkspill.jpg)
 # WordPress Theme & Template Customization
+
+CUNY Graduate School of Journalism » Interactive curriculum » Advanced WordPress Customization
 
 MODULE | l | PREREQUISITES | l | INSTRUCTOR | l | OFFICE HOURS
 :---|:---|:---|:---|:---|:---|:---
