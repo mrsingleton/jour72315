@@ -49,6 +49,12 @@ On the final night you will be administered a brief, straightforward quiz coveri
 
 ---
 
+## Cheat Sheets
+- <http://www.dbswebsite.com/design/wordpress-reference/V3/>
+- <http://outsourceage.com/wordpress3CheetSheet.html>
+- <http://wplift.com/category/wordpress-guides>
+- <http://www.graphicrating.com/2009/01/18/my-wordpress-cheat-sheet/>
+
 ## Free Resources
 - <http://codex.wordpress.org/>
 - <http://wordpress.tv/>
@@ -65,9 +71,3 @@ On the final night you will be administered a brief, straightforward quiz coveri
 - <http://www.lynda.com/WordPress-training-tutorials/330-0.html>
 - <http://teamtreehouse.com/library/topic:wordpress>
 - <http://premium.wpmudev.org/projects/category/videos/>
-
-## Cheat Sheets
-- <http://www.dbswebsite.com/design/wordpress-reference/V3/>
-- <http://outsourceage.com/wordpress3CheetSheet.html>
-- <http://wplift.com/category/wordpress-guides>
-- <http://www.graphicrating.com/2009/01/18/my-wordpress-cheat-sheet/>
