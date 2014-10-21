@@ -12,7 +12,7 @@ Mons 6 - 8:50 pm | l | Jour72313 HTML & CSS | l | Malik Singleton | l | Tue 6 - 
 Apr 20 - May 18 | l | Jour72314 JavaScript & JQuery | l | Adjunct, Interactive | l | Thu 5:30 - 7:30 pm
 Room 436 | l | _or proven competency_ | l | -- | l | Newsroom
 
-### This module takes you from WordPress beginner or intermediate admin. You'll learn to customize any theme and create the exact look and functionality your project requires.
+### This module takes you from WordPress beginner to intermediate admin. You'll learn to customize any theme and create the exact look and functionality your project requires.
 ---
 WordPress is such a common tool now that employers expect job seekers to know it like they do Microsoft, Adobe and Google products. It's less of a big deal that you know WordPress than it is if you don't know it so it's good to get under your belt.
 
