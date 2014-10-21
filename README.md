@@ -8,8 +8,8 @@ CUNY Graduate School of Journalism » Interactive curriculum » Advanced WordPre
 
 MODULE | l | PREREQUISITES | l | INSTRUCTOR | l | OFFICE HOURS
 :---|:---|:---|:---|:---|:---|:---
-Mon 6 - 8:50 pm | l | Jour72313 HTML & CSS | l | Malik Singleton | l | Tue 6 - 8 pm
-Apr 20 - May 18 | l | Jour72314 JavaScript & JQuery | l | Adjunct, Interactive | l | Thu 5:30 - 7:30 pm
+Mon 6 - 8:50 | l | Jour72313 HTML & CSS | l | Malik Singleton | l | Tue 6 - 8
+Apr 20 - May 18 | l | Jour72314 JavaScript & JQuery | l | Adjunct, Interactive | l | Thu 5:30 - 7:30
 Room 436 | l | _or proven competency_ | l | -- | l | Newsroom
 
 ### This module takes you from WordPress beginner to intermediate admin. You'll learn to customize any theme and create the exact look and functionality your project requires.
