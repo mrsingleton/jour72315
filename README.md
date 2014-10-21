@@ -1,4 +1,4 @@
-jour72315
+bit.ly/jour72315
 =========
 
 ![http://maliksingleton.com/wp-content/uploads/2014/10/inkspill.jpg](http://maliksingleton.com/wp-content/uploads/2014/10/inkspill.jpg)
