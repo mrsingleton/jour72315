@@ -30,8 +30,8 @@ DATE | DISCUSSION & DEMO | ACTIVITY | FLIPPED ASSIGNMENT
 :--- |:--- |:--- |:---
 by 4/19 | Setup | 1. Download MAMP from mamp.info. 2. Download WordPress from wordpress.org. Setup MAMP. Install WordPress locally. | Import content. Test out oEmbed.
 4/20 | Intro. Overview. Core features. The loop. Template hierarchy. Child themes. Custom CSS. | 1. Create child theme. | Manipulate your child theme's CSS. | Create a landing page.
-4/27 | How WordPress works. Custom page templates. Custom post formats. Custom meta info. Custom archives. Conditional behavior. Template tags. Quiz prep. | Assignment review. Customize your loop elements, i.e. byline, timestamp, comments count. | tk
-5/4 | Custom sidebars and menus. Custom headers and footers. Custom media attachment pages. Custom shortcodes. Quiz prep. | Assignment review. Add thumbnails to search results template. Add category description to category template. | Printer-friendly style.
+4/27 | How WordPress works. Custom page templates. Custom post formats. Custom meta info. Custom archives. Conditional behavior. Template tags. Quiz prep. | Assignment review. Customize your loop elements, i.e. byline, timestamp, comments count. | Create custom media attachment page.
+5/4 | Custom sidebars and menus. Custom headers and footers. Custom media attachment pages. Custom shortcodes. Quiz prep. | Assignment review. Add thumbnails to search results template. Add category description to category template. | Create printer-friendly stylesheet.
 5/11 | Plugins. Backup. Hosting. Security. WP-CLI. Quiz prep. | Assignment review. How to launch. | Customize your theme, prepare to present
 5/18 | Quiz | Demos | 
 
