@@ -36,7 +36,7 @@ by 4/19 | Setup | 1. Download MAMP from mamp.info. 2. Download WordPress from wo
 5/18 | Quiz | Demos | 
 
 ## Project
-Your task over the course of this module will be to improve your existing web project or portfolio by using WordPress customization techniques OR build yourself a brand a new WordPress site and implement the techniques learned in class and on your own. You will demo your customizations and improvements during the final meeting.
+Your task over the course of this module will be to improve your existing web project, i.e. portfolio or capstone, by using WordPress customization techniques OR build yourself a brand a new WordPress site and implement the techniques learned in class and on your own. You will demo your customizations and improvements during the final meeting.
 
 ## Quiz
 On the final night you will be administered a brief, straightforward quiz covering the topics covered since the first week.
