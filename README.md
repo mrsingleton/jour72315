@@ -14,9 +14,9 @@ Room 436 | l | _or proven competency_ | l | -- | l | Newsroom
 
 ### This module takes you from WordPress beginner to intermediate admin. You'll learn to customize any theme and create the exact look and functionality your project requires.
 ---
-WordPress is such a common tool now that employers expect job seekers to know it like they do Microsoft, Adobe and Google products. It's less of a big deal that you know WordPress than it is if you don't know it so it's good to get under your belt.
+WordPress is as common a tool now as Microsoft Office, Adobe Creative Suite or Google Apps. It is less of a big deal that you know WordPress than it is if you don't know it so it's good to get under your belt.
 
-This is the third of three modules in a sequence of technical topics in the interactive curriculum. You will learn enough code to master the WordPress admin, manipulate core features and customize WordPress themes. We will build templates and themes using PHP, CSS, HTML and the WordPress API in four sessions. The fifth and final session will consist of a wrap up quiz as well as your brief presentations about what you customized with your own site.
+This is the third module in a sequence of technical topics in the interactive curriculum. You will learn enough code to manipulate core features and customize WordPress themes. You will build templates using PHP, CSS, HTML and the WordPress API during four sessions. In the fifth and final session you will take a wrap up quiz and demo your what you customized on your own site.
 
 ## Course Goals
 1. Transform a theme from its default look into a completely different looking, totally customized version.
